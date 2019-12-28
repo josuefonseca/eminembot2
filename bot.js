@@ -19,7 +19,7 @@ var params = {
 	lang: 'pt',
 	result_type: 'recent',
 	count: 100
-	since: lastTweetId
+	since_id: lastTweetId
 };
 var tt = 0;
 
