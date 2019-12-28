@@ -18,7 +18,7 @@ var params = {
 	q: '"muse"',
 	lang: 'pt',
 	result_type: 'recent',
-	count: 100
+	count: 100,
 	since_id: lastTweetId
 };
 var tt = 0;
