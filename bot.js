@@ -94,4 +94,4 @@ function eValido(txt){
 	return str.endsWith(' muse') || str.endsWith(' @muse') || str.endsWith(' #muse');
 }
 
-setInterval(loop, 60000);
+setInterval(loop, 30000);
